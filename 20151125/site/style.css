@@ -1,0 +1,78 @@
+a, p, h1{
+	font-family: 'Roboto', sans-serif;
+}
+li{
+	list-style: none;
+	text-decoration: none;
+}
+body{
+	background-size: 600px;
+	background-image: url(polaroid.png);
+	margin: auto;
+	text-align: center;
+	width: 600px;
+}
+img{width: 400px; height: 300px;}
+h3,	p{margin-top: 0;margin-bottom: 0;}
+
+/*alice est ses avions*/
+
+.list{
+
+}
+.nav{
+	text-align: center;
+	width: 600px;
+	height: 100px;
+	background-color: #81C1D6;
+
+}
+.nav li{
+	float: left;
+	font-size: 20px;
+	margin-top: 35px;
+}
+
+.nav li a{
+	text-decoration: none;
+}
+ol{
+	margin-right: 50;
+}
+.titre_Alice{
+	margin-right: 0px;
+	position: relative;	
+}
+/*allan et son chocolat*/
+.titre_Allan{
+	margin-left: 150px;
+	position: relative;	
+}
+
+.menu{
+	background-color: #81C1D6;
+	width: 160px;
+	height: 1330px;
+	float: left;
+	padding-top: 25px;
+	margin-top: -90px;	
+
+}
+.menu li{
+	text-align: left;
+	margin-left: 5px;
+	padding-top: 25px;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: #fff;
+}
+.block1, .block3, .block4{
+	background-color: #09B80F;
+	width: 600px;
+}
+.block2, .block5{
+	background-color: #CCCCCC;
+	width: 600px;
+}
